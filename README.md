@@ -1,4 +1,4 @@
-<h2 align="center">Adam Siekierski's Website</h2>
+<h2 align="center">Website-Vue.js</h2>
 
 <p align="center"><i>My official website. Made with Vue.js 🖖.</i></p>
 
